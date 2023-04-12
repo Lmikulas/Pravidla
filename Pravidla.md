@@ -4,13 +4,6 @@ SO se přehazují nebo dohazují? -> stačí dohodit
 
 Hody se zaokrouhlují dolů
 
-#### Schování se
-
-PJ určí, jestli jsou vhodné okolnosti pro schování. Když se pokoušíš schovat, hoď si na ověření Obratnosti (Nenápadnosti). Tento výsledek tvého ověření zůstane, dokud nejsi objeven nebo se nepřestaneš skrývat a porovná se v konfliktu proti ověření Moudrosti (Vnímání) každého tvora, který se aktivně pokusí hledat stopy tvé přítomnosti. Nemůžeš se schovat tvorovi, který tě jasně vidí, a pokud způsobíš hluk (například vykřikneš varování nebo převrhneš vázu), prozradíš svou pozici. Neviditelného tvora nejde vidět, takže se může pokusit schovat kdykoliv. Stopy jeho průchodu lze ale i tak zpozorovat, a musí zůstat potichu.
-V boji se má většina tvorů na pozoru před známkami nebezpečí všude okolo, takže když vystoupíš ze své skrýše a přijdeš k tvorovi, obvykle tě vidí. Ale za určitých okolností ti může Pán jeskyně dovolit zůstat schovaný, když přijdeš k tvorovi, který je něčím zaujatý, a získat výhodu k hodu na útok, než tě spatří.
-**Pasivní Vnímání.** Když se schováš, je šance, že si tě někdo všimne, i když tě aktivně nehledá. Při posuzování, jestli si tě takový tvor všiml, PJ porovná tvé ověření Obratnosti (Nenápadnosti) s tvorovou hodnotou pasivní Moudrosti (Vnímání), která se rovná 10 + tvorova oprava Moudrosti plus další případné bonusy či postihy. Má-li tvor výhodu, přičte si 5. Při nevýhodě si odečte 5. Například, má-li postava na 1. úrovni (se zdatnostním bonusem +2) Moudrost 15 (oprava +2) a zdatnost ve Vnímání, má pasivní Moudrost (Vnímání) 14.
-**Co vidíš?** Jedním z hlavních faktorů při rozhodování, jestli můžeš najít schovaného tvora nebo předmět, je, jak dobře vidíš v oblasti, která může být slabě nebo hustě zahalená.
-
 #### Stupeň obtížnosti
 
 Tvou prací je stanovit Stupeň obtížnosti pro ověření vlastnosti nebo záchranný hod, když ti ho neposkytne pravidlo ani dobrodružství. Někdy budeš dokonce sám chtít změnit takové stanovené Stupně obtížnosti. Když to uděláš, zamysli se, jak je činnost obtížná a pak vyber patřičný SO z Tabulky typických SO.
@@ -251,86 +244,128 @@ Opustíš-li během svého pohybu dosah nepřátelského tvora, vyvoláš tím p
 Létající tvorové mají ze své pohyblivosti velký prospěch, ale musejí se také vypořádat s nebezpečím pádu. Je-li létající tvor sražen k zemi, jeho rychlost se sníží na 0, či je jinak zbaven schopnosti se pohybovat, tak spadne, pokud nemá schopnost se vznášet, nebo ho nedrží ve vzduchu magie, jako například kouzlo leť.
 
 #### Akce v boji
+Když chceš provést akci ve svém tahu, můžeš provést některou ze zde uvedených, nebo akci, kterou jsi získal díky svému povolání, či zvláštní akci, nebo akci, kterou zaimprovizuješ. Mnoho nestvůr má své vlastní možnosti akce ve svém bloku statistik.
+Když popíšeš akci, která není nikde v pravidlech, PJ ti řekne, jestli je tato akce možná a jaký druh hodu si máš případně hodit, zdali jsi uspěl či neuspěl.
 
 ##### Hledání
+Když provedeš akci Hledání, zaměříš svou pozornost na najití něčeho. Dle povahy hledání tě může PJ nechat hodit na ověření Moudrosti (Vnímání) nebo Inteligence (Pátrání).
 
 ##### Odpoutání se
+Provedeš-li akci Odpoutání se, tvůj pohyb po zbytek tahu nevyvolává příležitostné útoky.
 
 ##### Pomoc
+Jinému tvorovi můžeš nabídnout svou pomoc s dokončením činnosti. Když provedeš akci Pomoc, tak tvor, kterému pomáháš, získá výhodu ke svému následujícímu ověření vlastnosti k vykonání činnosti, se kterou mu pomáháš, pokud si hodí na ověření před začátkem tvého příštího tahu.
+Nebo můžeš pomoci přátelskému tvorovi s útokem na tvora vzdáleného do 1 sáhu od tebe. Provedeš fintu, odvrátíš pozornost cíle, nebo nějakým jiným způsobem budeš spolupracovat na útoku svého spojence, aby byl efektivnější. Zaútočí-li tvůj spojenec na cíl před tvým příštím tahem, hodí si na první hod na útok s výhodou.
 
 ##### Použití předmětu
+Obvykle interaguješ s předmětem, zatímco děláš něco jiného, například když tasíš meč jako součást útoku. Když předmět vyžaduje akci pro jeho použití, provedeš akci Použití předmětu. Tuto akci také použiješ, když chceš ve svém tahu interagovat s víc než jedním předmětem.
 
 ##### Příprava
+Někdy chceš mít náskok před protivníkem, nebo chceš čekat na určitou okolnost, než budeš jednat. Uděláš to tak, že ve svém tahu provedeš akci Příprava, která ti umožní jednat pomocí své reakce před začátkem svého příštího tahu.
+Prve se rozhodneš, jaká vnímatelná okolnost spustí tvou reakci. Pak buď určíš, jakou akci provedeš jako odpověď na tento spouštěč, nebo zvolíš, že se jako odpověď pohneš až o svou rychlost. Například: „Pokud kultista stoupne na poklop, zatáhnu za páku a otevřu ho,“ nebo: „Přijde-li goblin až ke mně, pohnu se pryč.“
+Když spouštěč nastane, můžeš buď provést svou reakci hned poté, co spouštěč skončí, nebo spouštěč ignorovat. Nezapomeň, že můžeš provést jen jednu reakci za kolo.
+Když si připravuješ kouzlo, sešleš ho jako obvykle, ale podržíš jeho energii, která se uvolní s tvou reakcí, když nastane spouštěč. Aby šlo kouzlo připravit, musí mít vyvolání 1 akce a držení magie kouzla vyžaduje soustředění (viz 10. kapitola). Pokud se tvé soustředění přeruší, pozice kouzla se vyplýtvá bez účinku. Například, pokud se soustředíš na kouzlo pavučina a připravíš si magickou střelu, pavučina tím skončí a utrpíš-li zranění, než uvolníš magickou střelu pomocí své reakce, tvé soustředění se můžeš přerušit.
 
 ##### Schování se
+Když provedeš akci Schování, hodíš si na ověření Obratnosti (Nenápadnosti). Uspěješ-li, získáš určité benefity, jak je popsáno v části „Nevidění útočníci a cíle“.
+PJ určí, jestli jsou vhodné okolnosti pro schování. Když se pokoušíš schovat, hoď si na ověření Obratnosti (Nenápadnosti). Tento výsledek tvého ověření zůstane, dokud nejsi objeven nebo se nepřestaneš skrývat a porovná se v konfliktu proti ověření Moudrosti (Vnímání) každého tvora, který se aktivně pokusí hledat stopy tvé přítomnosti. Nemůžeš se schovat tvorovi, který tě jasně vidí, a pokud způsobíš hluk (například vykřikneš varování nebo převrhneš vázu), prozradíš svou pozici. Neviditelného tvora nejde vidět, takže se může pokusit schovat kdykoliv. Stopy jeho průchodu lze ale i tak zpozorovat, a musí zůstat potichu.
+V boji se má většina tvorů na pozoru před známkami nebezpečí všude okolo, takže když vystoupíš ze své skrýše a přijdeš k tvorovi, obvykle tě vidí. Ale za určitých okolností ti může Pán jeskyně dovolit zůstat schovaný, když přijdeš k tvorovi, který je něčím zaujatý, a získat výhodu k hodu na útok, než tě spatří.
+**Pasivní Vnímání.** Když se schováš, je šance, že si tě někdo všimne, i když tě aktivně nehledá. Při posuzování, jestli si tě takový tvor všiml, PJ porovná tvé ověření Obratnosti (Nenápadnosti) s tvorovou hodnotou pasivní Moudrosti (Vnímání), která se rovná 10 + tvorova oprava Moudrosti plus další případné bonusy či postihy. Má-li tvor výhodu, přičte si 5. Při nevýhodě si odečte 5. Například, má-li postava na 1. úrovni (se zdatnostním bonusem +2) Moudrost 15 (oprava +2) a zdatnost ve Vnímání, má pasivní Moudrost (Vnímání) 14.
+**Co vidíš?** Jedním z hlavních faktorů při rozhodování, jestli můžeš najít schovaného tvora nebo předmět, je, jak dobře vidíš v oblasti, která může být slabě nebo hustě zahalená.
 
 ##### Uhýbání
+Když použiješ akci Uhýbání, zcela se soustředíš na vyhýbání se útokům. Do začátku tvého příštího tahu má každý hod na útok proti tobě nevýhodu, pokud útočníka vidíš, a na záchranné hody na Obratnost si házíš s výhodou. Pokud se staneš neschopný (viz dodatek A), nebo klesne-li tvá rychlost na 0, přijdeš o tento užitek.
 
 ##### Sprint
-
-#### Zaútočení
+Když provedeš akci Sprint, získáš v daném tahu pohyb navíc. Navýšení je rovno tvé rychlosti, po započítání všech případných oprav. Například s rychlostí 6 sáhů se můžeš pohnout ve svém tahu až o 12 sáhů, pokud použiješ Sprint.
 
 ##### Nevidění útočníci a cíle
-
-Účastníci boje se často snaží uniknout pozornosti svých
-nepřátel schováním, sesláním kouzla neviditelnost, nebo číháním
-ve tmě. Když útočíš na cíl, který nevidíš, máš k hodu
-na útok nevýhodu. To platí, i když hádáš, kde se cíl nachází,
-nebo i když cílíš na tvora, kterého slyšíš, ale nevidíš. Pokud
-cíl není na místě, na které cílíš, automaticky mineš, ale PJ
-obvykle jen řekne, že útok minul, ne jestli jsi uhádl místo cíle.
-Pokud tě tvor nevidí, máš proti němu výhodu k hodům na
-útok.
-Pokud jsi při útoku schovaný — neviděný a současně neslyšený
-— odhalíš svou polohu, bez ohledu na to, jestli zasáhneš
-či mineš.
+Účastníci boje se často snaží uniknout pozornosti svých nepřátel schováním, sesláním kouzla *neviditelnost*, nebo číháním ve tmě.
+Když útočíš na cíl, který nevidíš, máš k hodu na útok nevýhodu. To platí, i když hádáš, kde se cíl nachází, nebo i když cílíš na tvora, kterého slyšíš, ale nevidíš. Pokud cíl není na místě, na které cílíš, automaticky mineš, ale PJ obvykle jen řekne, že útok minul, ne jestli jsi uhádl místo cíle.
+Pokud tě tvor nevidí, máš proti němu výhodu k hodům na útok.
+Pokud jsi při útoku schovaný — neviděný a současně neslyšený — odhalíš svou polohu, bez ohledu na to, jestli zasáhneš či mineš.
 
 #### Kryt
-
-Zdi, stromy, tvorové a další překážky mohou poskytovat
-během boje kryt, kvůli kterému je těžší cíl zranit. Cíl může
-mít z krytu užitek, jen když útočník nebo jiný účinek vycházejí
-z opačné strany krytu.
-Jsou tři stupně krytu. Je-li cíl za několika zdroji krytu, platí
-pouze ten kryt, který poskytuje největší stupeň ochrany; stupně
-se nesčítají. Například, pokud je cíl za tvorem, který poskytuje
-poloviční kryt, a za kmenem stromu, který poskytuje
-tříčtvrteční kryt, pak má tříčtvrteční kryt.
-Cíl s polovičním krytem má bonus +2 k OČ a záchranným
-hodům na Obratnost. Cíl má poloviční kryt, pokud překážka
-zakrývá alespoň polovinu jeho těla. Překážkou může
-být nízká zídka, velký kus nábytku, úzký kmen stromu nebo
-tvor, ať už nepřítel či přítel.
-Tvor s tříčtvrtečním krytem má bonus +5 k OČ a záchranným
-hodům na Obratnost. Cíl má tříčtvrteční kryt, pokud
-překážka zakrývá asi tři čtvrtiny jeho těla. Překážkou může
-být padací mříž, střílna nebo tlustý kmen stromu.
-Na cíl s úplným krytem nelze pomocí útoku nebo kouzla
-přímo zamířit, ačkoliv některá kouzla mohou dosáhnout
-na takový cíl tak, že ho zahrnou do oblasti účinku. Cíl má úplný
-kryt, pokud je překážkou zcela zakrytý.
+Zdi, stromy, tvorové a další překážky mohou poskytovat během boje kryt, kvůli kterému je těžší cíl zranit. Cíl může mít z krytu užitek, jen když útočník nebo jiný účinek vycházejí z opačné strany krytu.
+Jsou tři stupně krytu. Je-li cíl za několika zdroji krytu, platí pouze ten kryt, který poskytuje největší stupeň ochrany; stupně se nesčítají. Například, pokud je cíl za tvorem, který poskytuje poloviční kryt, a za kmenem stromu, který poskytuje tříčtvrteční kryt, pak má tříčtvrteční kryt.
+Cíl s **polovičním krytem** má bonus +2 k OČ a záchranným hodům na Obratnost. Cíl má poloviční kryt, pokud překážka zakrývá alespoň polovinu jeho těla. Překážkou může být nízká zídka, velký kus nábytku, úzký kmen stromu nebo tvor, ať už nepřítel či přítel.
+Tvor s **tříčtvrtečním krytem** má bonus +5 k OČ a záchranným hodům na Obratnost. Cíl má tříčtvrteční kryt, pokud překážka zakrývá asi tři čtvrtiny jeho těla. Překážkou může být padací mříž, střílna nebo tlustý kmen stromu.
+Na cíl s **úplným krytem** nelze pomocí útoku nebo kouzla přímo zamířit, ačkoliv některá kouzla mohou dosáhnout na takový cíl tak, že ho zahrnou do oblasti účinku. Cíl má úplný kryt, pokud je překážkou zcela zakrytý.
 
 #### Útoky na dálku
 
 ##### Dostřel
+Zaútočit na dálku můžeš jen proti cílům v uvedeném dostřelu.
+Pokud má útok na dálku uveden jen jeden dostřel (například u kouzel, kde se navíc označuje jako dosah), nemůžeš zaútočit na cíl mimo tento dostřel.
+Některé útoky na dálku (například pomocí dlouhého či krátkého luku) mají dva dostřely. Menší číslo je normální dostřel a větší číslo je dlouhý dostřel. Když je cíl mimo normální dostřel, má tvůj hod na útok nevýhodu, a nemůžeš zaútočit na cíl mimo dlouhý dostřel.
 
 ##### Útoky na dálku v boji tváří v tvář
+Zamíření útoku na dálku je těžší, když těsně vedle tebe je nepřítel. Když útočíš na dálku zbraní, kouzlem či nějakými jinými prostředky, máš k hodu na útok nevýhodu, jsi-li do 1 sáhu od nepřátelského tvora, který tě vidí a není neschopný.
 
 #### Útoky na blízko
 
 ##### Příležitostné útoky
+V boji každý neustále sleduje nepřátele, jestli neztratili pozornost. Jen těžko můžeš nedbale projít kolem svých nepřátel, aniž by ses tím nevystavil nebezpečí; vyvolává to příležitostný útok.
+Když se nepřátelský tvor, kterého vidíš, pohne mimo tvůj dosah, můžeš na něj zaútočit příležitostným útokem. K tomu použiješ svou reakci a provedeš jeden útok na blízko proti tvorovi, který tento příležitostný útok vyvolal. Útok přeruší jeho pohyb a vyřeší se těsně před tím, než tvor opustí tvůj dosah.
+Příležitostnému útoku s můžeš vyhnout provedením akce Odpoutání se. Také nevyvoláš příležitostný útok, když se teleportuješ, nebo když s tebou někdo nebo něco pohne, aniž bys při tom použil svůj pohyb, akci či reakci. Například, nevyvoláš příležitostný útok, pokud tě výbuch odvrhne z nepřítelova dosahu, nebo když kvůli gravitaci padáš kolem nepřítele.
 
 ##### Boj dvěma zbraněmi
+Když provedeš akci Útok a zaútočíš lehkou zbraní na blízko, kterou držíš v jedné ruce, můžeš použít bonusovou akci pro útok s další lehkou zbraní na blízko, kterou držíš v druhé ruce. Ke zranění bonusového útoku si nepřičteš svou opravu vlastnosti, pokud není tato oprava záporná.
+Má-li některá ze zbraní vrhací vlastnost, můžeš jí vrhnout, místo abys s ní zaútočil na blízko.
 
 ##### Chvat
+Když chceš tvora chytit nebo s ním zápasit, můžeš použít akci Útok a provést speciální útok na blízko, chvat. Pokud dokážeš zaútočit pomocí akce Útok několikanásobně, tento útok nahradí jeden z nich.
+Cíl tvého chvatu musí být maximálně o jednu třídu velikosti větší než ty a musí být ve tvém dosahu. Pomocí aspoň jedné volné ruky se pokusíš uchvátit cíl svým ověřením chvatu, což je ověření Síly (Atletiky) v konfliktu proti ověření Síly (Atletiky) nebo Obratnosti (Akrobacie) cíle (cíl si zvolí, jakou vlastnost použije). Pokud konflikt vyhraješ, uvrhneš cíl do uchváceného stavu (viz dodatek A). Stav udává věci, které ho ukončí a ty můžeš uvolnit cíl, kdykoliv chceš (akce není potřeba).
+Únik z chvatu. Uchvácený tvor může použít svou akci k úniku. K tomu musí uspět v ověření Síly (Atletiky) či Obratnosti (Akrobacie) v konfliktu proti tvému ověření Síly (Atletiky).
+Hýbání s uchváceným tvorem. Když se pohneš, můžeš táhnout nebo nést uchváceného tvora s sebou, ale tvá rychlost je poloviční, pokud tvor není o dvě či více velikostí menší než ty.
 
 ##### Strčení
+Pomocí akce Útok můžeš provést zvláštní útok na blízko, kterým do tvora strčíš, buď abys ho srazil k zemi, nebo abys ho od sebe odtlačil. Pokud dokážeš zaútočit pomocí akce Útok několikanásobně, tento útok nahradí jeden z nich.
+Cíl tvého strčení musí být maximálně o jednu třídu velikosti větší než ty a musí být ve tvém dosahu. Hodíš si na ověření Síly (Atletiky) v konfliktu proti ověření Síly (Atletiky) nebo Obratnosti (Akrobacie) cíle (cíl si zvolí, jakou vlastnost použije). Pokud konflikt vyhraješ, buď srazíš cíl k zemi, nebo ho odtlačíš o 1 sáh od sebe.
 
 #### Zranění a léčení
 
 ##### Odolání a zranitelnost
+Některé tvory a předměty je nadmíru těžké či neobyčejně lehké zranit (poškodit) určitými typy zranění.
+Má-li tvor či předmět odolání vůči určitému typu zranění, pak se jemu způsobené zranění (poškození) sníží na polovinu. Má-li tvor či předmět zranitelnost vůči určitému typu zranění, pak se jemu způsobené zranění (poškození) zdvojnásobí.
+Odolání a pak zranitelnost se započítají až po všech ostatních opravách ke zranění. Například, tvor je odolný vůči drtivému zranění a je zasažen útokem, který způsobí drtivé zranění 25. Tvor je také v magické auře, která snižuje všechna zranění o 5. Zranění 25 se prve sníží o 5 a pak na polovinu, takže tvor utrpí zranění 10.
+Několik výskytů odolání či zranitelnosti, která působí na stejný typ zranění, se počítají jako jeden výskyt. Například, pokud je tvor odolný vůči ohnivému zranění a současně má odolání vůči všem nemagickým zraněním, pak jemu způsobené zranění z nemagického ohně se sníží na polovinu, ne na čtvrtinu.
 
 ##### Snížení životů na 0
+Když tvé životy klesnou na 0, buď namístě zemřeš, nebo upadneš do bezvědomí, jak je vysvětleno v částech níže.
+
+#Okamžitá smrt
+Masivní zranění tě může okamžitě zabít. Když utrpěné zranění sníží tvé životy na 0, a nějaké zranění ještě přebývá, pak zemřeš, pokud přebývající zranění je rovné nebo větší než tvoje maximum životů.
+
+Například, klerička s maximem životů 12 má aktuálně 6 životů. Způsobí-li jí útok zranění za 18 životů, sníží své životy na 0, ale 12 životů přebývá. Protože přebývající zranění je rovno jejímu maximu životů, klerička namístě zemře.
+
+#Upadnutí do bezvědomí
+Pokud ti zranění sníží životy na 0, ale nezabije tě, upadneš do bezvědomí (viz dodatek A). Toto bezvědomí skončí, pokud si obnovíš nějaké životy.
+
+#Záchranné hody proti smrti
+Kdykoliv začneš svůj tah s 0 životy, musíš si hodit zvláštní záchranný hod, zvaný záchranný hod proti smrti, zdali se přiblížíš smrti, nebo se budeš držet při životě. Na rozdíl od ostatních záchranných hodů, tento záchranný hod se neváže k žádné vlastnosti. Nyní jsi v rukách osudu, podpořený pouze kouzly a schopnostmi, které zvyšují tvé šance na uspění v záchranném hodu.
+Hoď si k20. Padne-li 10 nebo více, uspěješ. Jinak neuspěješ. Úspěch či neúspěch sám o sobě nic neznamená. Při třetím úspěchu jsi stabilizovaný (viz níže). Při třetím neúspěchu zemřeš. Úspěchy či neúspěchy nemusí jít po sobě; udržuj si přehled o obou, dokud nenasbíráš tři stejného druhu. Počet obou se anuluje, když si obnovíš nějaké životy, nebo když se staneš stabilizovaný.
+Hod 1 nebo 20. Když si házíš záchranný hod proti smrti a na k20 padne 1, počítá se jako dva neúspěchy. Pokud ti na k20 padne 20, obnovíš si 1 život.
+Zranění při 0 životech. Utrpíš-li zranění, zatímco máš 0 životů, utrpíš neúspěch záchranného hodu proti smrti. Je-li to zranění z kritického zásahu, utrpíš místo toho dva neúspěchy. Pokud je zranění rovné nebo větší než tvoje maximum životů, tak namístě zemřeš.
+
+#Stabilizace tvora
+Nejlepší způsob, jak zachránit tvora s 0 životy, je pomocí léčení. Není-li to možné, můžeš ho aspoň stabilizovat, takže nezemře na neúspěšné záchranné hody proti smrti.
+Pomocí své akce můžeš tvorovi v bezvědomí poskytnout první pomoc a pokusit se ho stabilizovat, což vyžaduje úspěšné ověření Moudrosti (Lékařství) se SO 10.
+Stabilizovaný tvor si nehází záchranné hody proti smrti, i když má 0 životů, ale stále zůstává v bezvědomí. Utrpí-li tvor nějaké zranění, přestane být stabilizovaný a musí si znovu začít házet záchranné hody proti smrti. Neléčený stabilizovaný tvor si obnoví 1 život po uplynutí 1k4 hodin.
+
+#Nestvůry a smrt
+Většina Pánů jeskyně nechává nestvůru okamžitě zemřít, jakmile její životy klesnou na 0, místo aby upadla do bezvědomí a házela si záchranné hody proti smrti.
+Mocní padouši a zvláštní cizí postavy jsou zpravidla výjimky; PJ je může nechat upadnout do bezvědomí a postupovat podle stejných pravidel jako hráčské postavy.
+#Sražení tvora do bezvědomí
+Občas chce útočník svého soupeře jen vyřadit, ne zabít. Když útočník sníží útokem na blízko životy tvora na 0, může ho srazit do bezvědomí. Útočník se musí takto rozhodnout okamžitě poté, co způsobí zranění. Tvor upadne do bezvědomí jako stabilizovaný.
+
+#Dočasné životy
+Některá kouzla a zvláštní schopnosti propůjčují tvorovi dočasné životy. Dočasné životy nejsou skutečné životy; jsou nárazníkem proti zranění, zásobou životů, která tě chrání před poraněním.
+Když máš dočasné životy a utrpíš zranění, přijdeš jako první o dočasné životy, a zranění, které případně přebývá, se přenese do tvých normálních životů. Například, máš-li 5 dočasných životů a utrpíš zranění 7, přijdeš o dočasné životy a pak utrpíš zranění 2.
+Protože dočasné životy jsou oddělené od tvých skutečných životů, mohou přesáhnout tvé maximum životů. Postava proto může mít plný počet životů a obdržet dočasné životy.
+Léčení nemůže obnovit dočasné životy a dočasné životy nelze sčítat. Pokud máš dočasné životy a obdržíš další, musíš se rozhodnout, jestli si necháš ty, co máš, nebo jestli získáš ty nové. Například, dá-li ti kouzlo 12 dočasných životů, když už jich máš 10, pak můžeš mít buď 12, nebo 10 dočasných životů, ne 22.
+Pokud máš 0 životů, obdržení dočasných životů tě neprobere k vědomí, ani tě nestabilizuje. Stále mohou pohltit zranění, které na tebe směřuje, zatímco jsi v daném stavu, ale zachránit tě může jen skutečné léčení.
+Pokud schopnost, která ti dává dočasné životy, nemá uvedené trvání, tak ti dočasné životy vydrží, dokud se nevyčerpají, nebo dokud si důkladně neodpočineš.
 
 #### Seslání kouzla
 
@@ -386,28 +421,52 @@ PJ může také určit, že některé jevy prostředí vyžadují, abys uspěl v
 
 ### Zbroje a štíty
 
-Lehké zbroje. Když používáš lehkou zbroj, určíš své OČ tak,
-že k základnímu číslu uvedenému v tabulce přičteš svoji
-opravu Obratnosti.
-Střední zbroje. Když používáš střední zbroj, určíš své OČ
-tak, že k základnímu číslu uvedenému v tabulce přičteš
-svoji opravu Obratnosti, ale maximálně +2.
-Těžké zbroje. Když používáš těžkou zbroj, nemůžeš
-si k OČ přičíst opravu Obratnosti, ale zároveň nemáš postih,
-je-li tvoje oprava Obratnosti záporná.
-Je-li ve sloupečku Síla uvedeno např. „Sil 13“ nebo
-„Sil 15“, zbroj snižuje rychlost svého nositele o 2 sáhy, pokud
-nemá sílu rovnou či vyšší, než je ta uvedená.
+**Lehké zbroje.** Když používáš lehkou zbroj, určíš své OČ tak, že k základnímu číslu uvedenému v tabulce přičteš svoji opravu Obratnosti.
+**Střední zbroje.** Když používáš střední zbroj, určíš své OČ tak, že k základnímu číslu uvedenému v tabulce přičteš svoji opravu Obratnosti, ale maximálně +2.
+**Těžké zbroje.** Když používáš těžkou zbroj, nemůžeš si k OČ přičíst opravu Obratnosti, ale zároveň nemáš postih, je-li tvoje oprava Obratnosti záporná.
+Je-li ve sloupečku Síla uvedeno např. „Sil 13“ nebo „Sil 15“, zbroj snižuje rychlost svého nositele o 2 sáhy, pokud nemá sílu rovnou či vyšší, než je ta uvedená.
 
-#### Zdatnost se zbrojí
+**Zdatnost se zbrojí.** Navléct si zbroj a připnout na ruku štít může každý. Ale pouze ti, kteří jsou se zbrojí zdatní, vědí, jak ji používat efektivně. Tvoje povolání ti dává zdatnost s určitými typy zbroje. Když nosíš zbroj, se kterou nejsi zdatný, nemůžeš sesílat kouzla a máš nevýhodu k ověřením vlastností, záchranným hodům a hodům na útok, které zahrnují Sílu nebo Obratnost.
 
-#### Štíty
+**Štíty.** Štít se vyrábí ze dřeva nebo kovu a nosí se v jedné ruce. Držení štítu zvyšuje tvé Obranné číslo o 2. V jednu chvíli můžeš mít prospěch jen z jednoho štítu.
 
 ### Zbraně
 
+**Zdatnost se zbraní.** ti umožňuje přičíst si zdatnostní bonus k hodu na útok, při kterém použiješ tuto zbraň. Pokud si házíš na útok s použitím zbraně, se kterou neumíš zacházet, nepřičteš si zdatnostní bonus k hodu na útok.
+
 #### Vlastnosti zbraní
+Mnoho zbraní má zvláštní vlastnosti související s jejich použitím, jak ukazuje Tabulka zbraní.
+
+Dlouhá. Tato zbraň přidává 1 sáh k tvému dosahu, když s ní útočíš, a také pro určování tvého dosahu pro příležitostné útoky pomocí ní (viz 9. kapitola).
+
+Dostřel. Zbraň, která se dá použít k útoku na dálku, má uveden dostřel v závorkách za vlastností, která říká, že jde o střelnou nebo vrhací zbraň. Dostřel uvádí dvě čísla. První je normální dostřel zbraně v sázích a druhé označuje její dlouhý dostřel. Když útočíš na nepřátele mimo normální dostřel, máš k hodům na útok nevýhodu. Nemůžeš zaútočit na cíl mimo dlouhý dostřel zbraně.
+
+Jeden a půlruční. Tato zbraň se dá použít jednou nebo oběma rukama. Hodnota zranění uvedená v závorkách za touto vlastností je zranění, když se tato zbraň použije oběma rukama k útoku na blízko.
+
+Lehká. Lehká zbraň je malá a snadno se ovládá, díky čemuž je ideálně použitelná pro boj se dvěma zbraněmi. Viz pravidla pro boj se dvěma zbraněmi v 9. kapitole.
+
+Nabíjecí. Když použiješ svou akci, bonusovou akci či reakci k výstřelu z této zbraně, můžeš vystřelit jen jednu střelu kvůli času, který je potřeba k nabití zbraně, bez ohledu na počet útoků, které obvykle můžeš provést.
+
+Obouruční. Zaútočení touto zbraní vyžaduje dvě ruce.
+
+Těžká. Malí nebo Drobní tvorové mají nevýhodu k hodům na útok s těžkou zbraní. Velikost a objem těžké zbraně je příliš velký, aby ji Malý nebo Drobbný tvor dokázal používat efektivně.
+
+Střelná. Zbraň, která má střelnou vlastnost, můžeš použít k útoku na dálku jen tehdy, když máš střelu, kterou můžeš ze zbraně vystřelit. Pokaždé, když zbraní zaútočíš, spotřebuješ jednu střelu. Vytažení střely z toulce, pouzdra či jiného zásobníku je součástí útoku (pro nabití jednoruční zbraně potřebuješ volnou ruku). Na konci souboje můžeš získat zpět polovinu svých spotřebovaných střel, když strávíš minutu hledáním na bojišti.
+
+Použiješ-li zbraň se střelnou vlastností k útoku na blízko, ber ji jako improvizovanou zbraň (viz „Improvizované zbraně“ dále v této sekci). Když použiješ tímto způsobem prak, musí být nabitý, aby způsobil nějaké zranění.
+
+Vrhací. Pokud má zbraň vrhací vlastnost, můžeš zbraň vrhnout útokem na dálku. Je-li zbraň v kategorii zbraní na blízko, použiješ pro hod na útok a na zranění stejnou opravu vlastnosti, jakou bys použil pro útok na blízko s touto zbraní. Například, vrhneš-li sekeru, použiješ svou Sílu, ale vrhneš-li dýku, můžeš použít buď svou Sílu, nebo Obratnost, protože dýka má vytříbenou vlastnost.
+
+Vytříbená. Když útočíš vytříbenou zbraní, přičteš ke svým hodům na útok a na zranění buď svou opravu Síly, nebo Obratnosti dle své volby. K oběma hodům musíš použít stejnou opravu.
+
+Zvláštní. Zbraň se zvláštní vlastností má neobvyklá pravidla použití, vysvětlená v popisu zbraně (viz „Zvláštní zbraně“ dále v této sekci).
 
 ##### Improvizované zbraně
+Někdy postavy nemají své zbraně a musí útočíš tím, co je po ruce. Do improvizovaných zbraní spadá jakýkoliv předmět, který můžeš držet v jedné nebo obou rukách, například rozbitá sklenice, noha od stolu, pánev na smažení, kolo od vozu nebo mrtvý goblin.
+
+V mnoha případech je improvizovaná zbraň podobná skutečné zbrani a podle toho se tak bere. Například noha od stolu je podobná kyji. Dle úvahy Pána jeskyně, postava, která umí zacházet s určitou zbraní, může použít podobný předmět, jako by to byla daná zbraň a použít svůj zdatnostní bonus.
+
+Předmět, který se nepodobá zbrani, způsobuje zranění 1k4 (PJ mu přiřadí typ zranění, který se k němu hodí). Použije-li postava zbraň na dálku k útoku na blízko, nebo vrhne zbraň na blízko, která nemá vrhací vlastnost, způsobí také zranění 1k4. Improvizovaná vrhací zbraň má normální dostřel 4 sáhy a dlouhý dostřel 12 sáhů.
 
 ## Stavy
 
