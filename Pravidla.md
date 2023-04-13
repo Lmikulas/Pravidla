@@ -142,13 +142,13 @@ Pokud máš inspiraci, můžeš ji utratit při hodu na útok, záchranném hodu
 
 #### Dovednosti
 
-| Síla     | Obratnost   | Inteligence | Moudrost        | Charisma      |
-| -------- | ----------- | ----------- | --------------- | ------------- |
-| Atletika | Akrobacie   | Historie    | Lékařství       | Klamání       |
-|          | Čachry      | Mystika     | Ovládání zvířat | Přesvědčování |
-|          | Nenápadnost | Náboženství | Přežití         | Umění         |
-|          |             | Pátrání     | Vhled           | Zastrašování  |
-|          |             | Příroda     | Vnímání         |               |
+| Síla      | Obratnost       | Inteligence   | Moudrost        | Charisma      |
+| --------- | --------------- | ------------- | --------------- | ------------- |
+| Atletika  | Akrobacie       | Historie     | Lékařství        | Klamání       |
+|           | Čachry          | Mystika      | Ovládání zvířat  | Přesvědčování |
+|           | Nenápadnost     | Náboženství  | Přežití          | Umění         |
+|           |                 | Pátrání      | Vhled            | Zastrašování  |
+|           |                 | Příroda      | Vnímání          |               |
 
 | Strength  | Dexterity       | Intelligence  | Wisdom          | Charisma     |
 | --------- | --------------- | ------------- | --------------- | ------------ |
