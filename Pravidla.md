@@ -172,8 +172,9 @@ Dle úvahy PJ, šplhání po kluzkém svislém povrchu nebo povrchu s málo úch
 
 ##### Skákání
 
-**Skok do dálky** Když skáčeš do dálky, skočíš nejvýš počet stop rovných tvé hodnotě Síly,  okud se těsně před skokem rozběhneš aspoň 2 sáhy. Pokud skáčeš do dálky z místa, skočíš jen poloviční vzdálenost. V každém případě každá skočená stopa stojí stopu pohybu. Pravidlo předpokládá, že nezáleží na výšce tvého skoku, například při skoku přes potok nebo průrvu. Dle úvahy PJ, když při tom přeskakuješ nízkou překážku (ne vyšší než čtvrtina skočené vzdálenosti), například plot nebo nízkou zídku, musíš
+**Skok do dálky** Když skáčeš do dálky, skočíš nejvýš počet stop rovných tvé hodnotě Síly,  pokud se těsně před skokem rozběhneš aspoň 2 sáhy. Pokud skáčeš do dálky z místa, skočíš jen poloviční vzdálenost. V každém případě každá skočená stopa stojí stopu pohybu. Pravidlo předpokládá, že nezáleží na výšce tvého skoku, například při skoku přes potok nebo průrvu. Dle úvahy PJ, když při tom přeskakuješ nízkou překážku (ne vyšší než čtvrtina skočené vzdálenosti), například plot nebo nízkou zídku, musíš
 uspět v ověření Síly (Atletika) se SO 10. Když neuspěješ, narazíš do překážky. Když přistaneš v těžkém terénu, musíš uspět v ověření Obratnosti (Akrobacie) se SO 10, abys přistál na nohou. Když neuspěješ, upadneš.
+
 **Skok do výšky** Když skáčeš do výšky, vyskočíš do vzduchu počet stop rovných 3 + tvá oprava Síly, pokud se těsně před skokem rozběhneš aspoň 2 sáhy. Po započítání tvé opravy Síly je skok do výšky nejméně 0 stop. Když skáčeš do výšky z místa, vyskočíš jen poloviční vzdálenost. V každém případě každá vyskočená stopa stojí stopu pohybu. Za určitých okolností ti PJ může umožnit hod na ověření Síly (Atletika), abys skočil výš než můžeš normálně. Během skoku můžeš vzpažit své ruce o polovinu své výšky. Tak můžeš dosáhnout do výšky rovné výšce svého skoku plus 1,5 násobek své výšky.
 
 #### Pád z výšky
