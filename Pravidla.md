@@ -360,32 +360,32 @@ Několik výskytů odolání či zranitelnosti, která působí na stejný typ z
 ##### Snížení životů na 0
 Když tvé životy klesnou na 0, buď namístě zemřeš, nebo upadneš do bezvědomí, jak je vysvětleno v částech níže.
 
-#Okamžitá smrt
+###### Okamžitá smrt
 Masivní zranění tě může okamžitě zabít. Když utrpěné zranění sníží tvé životy na 0, a nějaké zranění ještě přebývá, pak zemřeš, pokud přebývající zranění je rovné nebo větší než tvoje maximum životů.
 
 Například, klerička s maximem životů 12 má aktuálně 6 životů. Způsobí-li jí útok zranění za 18 životů, sníží své životy na 0, ale 12 životů přebývá. Protože přebývající zranění je rovno jejímu maximu životů, klerička namístě zemře.
 
-#Upadnutí do bezvědomí
+###### Upadnutí do bezvědomí
 Pokud ti zranění sníží životy na 0, ale nezabije tě, upadneš do bezvědomí (viz dodatek A). Toto bezvědomí skončí, pokud si obnovíš nějaké životy.
 
-#Záchranné hody proti smrti
+###### Záchranné hody proti smrti
 Kdykoliv začneš svůj tah s 0 životy, musíš si hodit zvláštní záchranný hod, zvaný záchranný hod proti smrti, zdali se přiblížíš smrti, nebo se budeš držet při životě. Na rozdíl od ostatních záchranných hodů, tento záchranný hod se neváže k žádné vlastnosti. Nyní jsi v rukách osudu, podpořený pouze kouzly a schopnostmi, které zvyšují tvé šance na uspění v záchranném hodu.
 Hoď si k20. Padne-li 10 nebo více, uspěješ. Jinak neuspěješ. Úspěch či neúspěch sám o sobě nic neznamená. Při třetím úspěchu jsi stabilizovaný (viz níže). Při třetím neúspěchu zemřeš. Úspěchy či neúspěchy nemusí jít po sobě; udržuj si přehled o obou, dokud nenasbíráš tři stejného druhu. Počet obou se anuluje, když si obnovíš nějaké životy, nebo když se staneš stabilizovaný.
 Hod 1 nebo 20. Když si házíš záchranný hod proti smrti a na k20 padne 1, počítá se jako dva neúspěchy. Pokud ti na k20 padne 20, obnovíš si 1 život.
 Zranění při 0 životech. Utrpíš-li zranění, zatímco máš 0 životů, utrpíš neúspěch záchranného hodu proti smrti. Je-li to zranění z kritického zásahu, utrpíš místo toho dva neúspěchy. Pokud je zranění rovné nebo větší než tvoje maximum životů, tak namístě zemřeš.
 
-#Stabilizace tvora
+###### Stabilizace tvora
 Nejlepší způsob, jak zachránit tvora s 0 životy, je pomocí léčení. Není-li to možné, můžeš ho aspoň stabilizovat, takže nezemře na neúspěšné záchranné hody proti smrti.
 Pomocí své akce můžeš tvorovi v bezvědomí poskytnout první pomoc a pokusit se ho stabilizovat, což vyžaduje úspěšné ověření Moudrosti (Lékařství) se SO 10.
 Stabilizovaný tvor si nehází záchranné hody proti smrti, i když má 0 životů, ale stále zůstává v bezvědomí. Utrpí-li tvor nějaké zranění, přestane být stabilizovaný a musí si znovu začít házet záchranné hody proti smrti. Neléčený stabilizovaný tvor si obnoví 1 život po uplynutí 1k4 hodin.
 
-#Nestvůry a smrt
+###### Nestvůry a smrt
 Většina Pánů jeskyně nechává nestvůru okamžitě zemřít, jakmile její životy klesnou na 0, místo aby upadla do bezvědomí a házela si záchranné hody proti smrti.
 Mocní padouši a zvláštní cizí postavy jsou zpravidla výjimky; PJ je může nechat upadnout do bezvědomí a postupovat podle stejných pravidel jako hráčské postavy.
 #Sražení tvora do bezvědomí
 Občas chce útočník svého soupeře jen vyřadit, ne zabít. Když útočník sníží útokem na blízko životy tvora na 0, může ho srazit do bezvědomí. Útočník se musí takto rozhodnout okamžitě poté, co způsobí zranění. Tvor upadne do bezvědomí jako stabilizovaný.
 
-#Dočasné životy
+###### Dočasné životy
 Některá kouzla a zvláštní schopnosti propůjčují tvorovi dočasné životy. Dočasné životy nejsou skutečné životy; jsou nárazníkem proti zranění, zásobou životů, která tě chrání před poraněním.
 Když máš dočasné životy a utrpíš zranění, přijdeš jako první o dočasné životy, a zranění, které případně přebývá, se přenese do tvých normálních životů. Například, máš-li 5 dočasných životů a utrpíš zranění 7, přijdeš o dočasné životy a pak utrpíš zranění 2.
 Protože dočasné životy jsou oddělené od tvých skutečných životů, mohou přesáhnout tvé maximum životů. Postava proto může mít plný počet životů a obdržet dočasné životy.
