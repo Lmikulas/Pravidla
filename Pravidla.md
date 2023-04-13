@@ -395,6 +395,21 @@ Pokud schopnost, která ti dává dočasné životy, nemá uvedené trvání, ta
 
 #### Seslání kouzla
 
+### Kniha kouzel
+Kouzla, jež si přidáváš do své knihy kouzel při postupu na vyšší úrovně, odráží tvoje bádání, které provádíš na svou vlastní pěst, stejně jako intelektuální objevy, jež jsi učinil o povaze mnohovesmíru. Na svých dobrodružstvích možná najdeš další kouzla. Například, můžeš objevit kouzlo zaznamenané na svitku v truhle zlého kouzelníka nebo v zaprášené rukověti v prastaré knihovně.
+
+Opisování kouzel do knihy. Když najdeš kouzelnické kouzlo 1. či vyšší úrovně, můžeš si ho opsat do své knihy kouzel, je-li takové úrovně, kterou si můžeš připravit, a pokud máš čas ho rozluštit a zkopírovat.
+
+Opsat kouzlo do tvé knihy kouzel znamená reprodukovat základní formu kouzla a poté rozluštit unikátní systém zápisu použitý kouzelníkem, který kouzlo zapisoval. Musíš kouzlo cvičit, dokud neporozumíš nutným zvukům či gestům a pak ho přepsat do své knihy kouzel pomocí svého vlastního zápisu.
+
+Za každou úroveň kouzla tento proces trvá 2 hodiny a stojí 50 zl. Cena představuje suroviny, které spotřebuješ při experimentování s kouzlem k jeho osvojení, stejně jako kvalitní inkousty, které potřebuješ k jeho zapsání. Jakmile utratíš tento čas a peníze, můžeš si kouzlo připravit stejně jako svá ostatní kouzla.
+
+Výměna knihy. Ze své vlastní knihy kouzel můžeš opsat kouzlo do jiné knihy — například, chceš-li si udělat záložní kopii své knihy kouzel. Je to stejné jako opisování nového kouzla do tvé knihy kouzel, ale rychlejší a snadnější, protože svému vlastnímu zápisu rozumíš a už víš, jak kouzlo seslat. Za každou úroveň opisovaného kouzla musíš strávit jen 1 hodinu a 10 zlatých.
+
+Přijdeš-li o svou knihu kouzel, můžeš použít stejný postup k přepisu kouzel, která sis připravil, do nové knihy kouzel. K vyplnění zbytku své knihy kouzel si musíš najít nová kouzla jako obvykle. Z tohoto důvodu si mnoho kouzelníků udržuje záložní knihy kouzel na bezpečném místě.
+
+Vzhled knihy. Tvoje kniha kouzel je unikátní kompilací kouzel, se svými vlastními dekorativními ozdobami a okrajovými poznámkami. Může to být prostý, funkční kožený svazek, který jsi dostal jako dárek od svého mistra, může to být jemně vázaná rukověť s pozlacenými okraji, kterou jsi našel v prastaré hrobce, nebo to může být dokonce jen volná sbírka poznámek, které sis dal dohromady poté, co jsi přišel o svou předchozí knihu kouzel při nehodě.
+
 ##### Složky
 
 ###### Verbální (V) / Verbal (V)
