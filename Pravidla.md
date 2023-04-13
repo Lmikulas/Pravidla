@@ -448,7 +448,9 @@ PJ může také určit, že některé jevy prostředí vyžadují, abys uspěl v
 ### Zbroje a štíty
 
 **Lehké zbroje.** Když používáš lehkou zbroj, určíš své OČ tak, že k základnímu číslu uvedenému v tabulce přičteš svoji opravu Obratnosti.
+
 **Střední zbroje.** Když používáš střední zbroj, určíš své OČ tak, že k základnímu číslu uvedenému v tabulce přičteš svoji opravu Obratnosti, ale maximálně +2.
+
 **Těžké zbroje.** Když používáš těžkou zbroj, nemůžeš si k OČ přičíst opravu Obratnosti, ale zároveň nemáš postih, je-li tvoje oprava Obratnosti záporná.
 Je-li ve sloupečku Síla uvedeno např. „Sil 13“ nebo „Sil 15“, zbroj snižuje rychlost svého nositele o 2 sáhy, pokud nemá sílu rovnou či vyšší, než je ta uvedená.
 
