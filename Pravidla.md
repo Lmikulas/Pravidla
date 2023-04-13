@@ -140,7 +140,7 @@ Pokud máš inspiraci, můžeš ji utratit při hodu na útok, záchranném hodu
 |          |             | Pátrání     | Vhled           | Zastrašování  |
 |          |             | Příroda     | Vnímání         |               |
 
-| Strength  | Obratnost       | Intelligence  | Wisdom          | Charisma     |
+| Strength  | Dexterity       | Intelligence  | Wisdom          | Charisma     |
 | --------- | --------------- | ------------- | --------------- | ------------ |
 | Athletics | Acrobatics      | History       | Medicine        | Deception    |
 |           | Sleight of Hand | Mystika       | Animal Handling | Persuasion   |
