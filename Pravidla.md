@@ -190,8 +190,11 @@ Můžeš zadržet svůj dech na počet minut rovný 1 + tvoje oprava Odolnosti (
 Ve slabě **zahalené oblasti**, například v šeru, řídké mlze nebo porostu, máš nevýhodu k ověřením Moudrosti (Vnímání), která se opírají o zrak.
 
 **Hustě zahalená** oblast — například tma, hustá mlha nebo porost — zcela blokuje výhled. Tvor v hustě zahalené oblasti prakticky trpí účinky slepoty (viz stav v dodatku B), když se v ní snaží něco vidět. Přítomnost či nepřítomnost světla v prostředí vytváří tři kategorie osvětlení: jasno, šero a tma.
+
 **Jasno** (či **jasné světlo**) umožňuje většině tvorů vidět normálně. Jasné světlo je dokonce i v pošmourných dnech a vydávají ho i pochodně, lucerny, ohně a jiné zdroje světla v rámci určitého okruhu.
+
 **Šero** (či **slabé světlo**) vytváří slabě zahalenou oblast. Oblast v šeru je obvykle hranicí mezi zdrojem jasného světla, jako je například pochodeň, a okolní tmou.
+
 **Tma** vytváří hustě zahalenou oblast. Postavy čelí tmě v noci pod širým nebem (dokonce i za nejjasnějších měsíčních nocí), v rámci prostoru neosvětlené jeskyně či podzemního sklepení, nebo v oblasti magické tmy.
 
 ### Odpočinek
