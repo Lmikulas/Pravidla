@@ -397,15 +397,15 @@ Pokud schopnost, která ti dává dočasné životy, nemá uvedené trvání, ta
 
 ##### Složky
 
-###### Verbální (V)
+###### Verbální (V) / Verbal (V)
 
 Většina kouzel vyžaduje monotónní odrecitování mystických slov. Slova samotná nejsou zdrojem moci kouzla; spíše konkrétní kombinace zvuků se specifickou intenzitou a rezonancí uvádí do pohybu vlákna magie. Proto postava, která je umlčená nebo v oblasti ticha, vytvořené například pomocí kouzla ticho, nemůže seslat kouzlo s verbální složkou.
 
-###### Pohybové (P)
+###### Pohybové (P) / Somatic (S)
 
 Gesta pro seslání kouzla mohou obsahovat energickou gestikulaci nebo spletitou sérii gest. Vyžaduje-li kouzlo pohybovou složku, musí mít sesilatel aspoň jednu volnou ruku, aby provedl tato gesta.
 
-###### Surovinové (S)
+###### Surovinové (S) / Material (M)
 
 Seslání některých kouzel vyžaduje konkrétní předměty uvedené v závorkách v rámci surovin. Místo nich může postava použít **brašničku na suroviny** nebo sesílací **ohniskový předmět** (viz 5. kapitola). Ale je-li u suroviny uvedená cena, musí danou surovinu postava mít, než může kouzlo seslat.
 
