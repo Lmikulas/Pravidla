@@ -245,8 +245,7 @@ Jen jedna reakce
 
 ##### Těžký terén
 
-Účastníci boje jsou často zpomaleni obtížným terénem. Příklady těžkého terénu jsou nízký nábytek, trosky, houští, příkré schody, sníh nebo mělké bahno. Místo obsazené tvorem, ať už
-přátelským či nepřátelským, se také považuje za těžký terén.
+Účastníci boje jsou často zpomaleni obtížným terénem. Příklady těžkého terénu jsou nízký nábytek, trosky, houští, příkré schody, sníh nebo mělké bahno. Místo obsazené tvorem, ať už přátelským či nepřátelským, se také považuje za těžký terén.
 Každý sáh pohybu v těžkém terénu stojí 1 sáh navíc. Toto pravidlo platí, i když je na místě několik věcí, které se berou jako těžký terén.
 
 ##### Ležení
@@ -292,7 +291,9 @@ Když si připravuješ kouzlo, sešleš ho jako obvykle, ale podržíš jeho ene
 Když provedeš akci Schování, hodíš si na ověření Obratnosti (Nenápadnosti). Uspěješ-li, získáš určité benefity, jak je popsáno v části „Nevidění útočníci a cíle“.
 PJ určí, jestli jsou vhodné okolnosti pro schování. Když se pokoušíš schovat, hoď si na ověření Obratnosti (Nenápadnosti). Tento výsledek tvého ověření zůstane, dokud nejsi objeven nebo se nepřestaneš skrývat a porovná se v konfliktu proti ověření Moudrosti (Vnímání) každého tvora, který se aktivně pokusí hledat stopy tvé přítomnosti. Nemůžeš se schovat tvorovi, který tě jasně vidí, a pokud způsobíš hluk (například vykřikneš varování nebo převrhneš vázu), prozradíš svou pozici. Neviditelného tvora nejde vidět, takže se může pokusit schovat kdykoliv. Stopy jeho průchodu lze ale i tak zpozorovat, a musí zůstat potichu.
 V boji se má většina tvorů na pozoru před známkami nebezpečí všude okolo, takže když vystoupíš ze své skrýše a přijdeš k tvorovi, obvykle tě vidí. Ale za určitých okolností ti může Pán jeskyně dovolit zůstat schovaný, když přijdeš k tvorovi, který je něčím zaujatý, a získat výhodu k hodu na útok, než tě spatří.
+
 **Pasivní Vnímání.** Když se schováš, je šance, že si tě někdo všimne, i když tě aktivně nehledá. Při posuzování, jestli si tě takový tvor všiml, PJ porovná tvé ověření Obratnosti (Nenápadnosti) s tvorovou hodnotou pasivní Moudrosti (Vnímání), která se rovná 10 + tvorova oprava Moudrosti plus další případné bonusy či postihy. Má-li tvor výhodu, přičte si 5. Při nevýhodě si odečte 5. Například, má-li postava na 1. úrovni (se zdatnostním bonusem +2) Moudrost 15 (oprava +2) a zdatnost ve Vnímání, má pasivní Moudrost (Vnímání) 14.
+
 **Co vidíš?** Jedním z hlavních faktorů při rozhodování, jestli můžeš najít schovaného tvora nebo předmět, je, jak dobře vidíš v oblasti, která může být slabě nebo hustě zahalená.
 
 ##### Uhýbání
@@ -310,8 +311,11 @@ Pokud jsi při útoku schovaný — neviděný a současně neslyšený — odha
 #### Kryt
 Zdi, stromy, tvorové a další překážky mohou poskytovat během boje kryt, kvůli kterému je těžší cíl zranit. Cíl může mít z krytu užitek, jen když útočník nebo jiný účinek vycházejí z opačné strany krytu.
 Jsou tři stupně krytu. Je-li cíl za několika zdroji krytu, platí pouze ten kryt, který poskytuje největší stupeň ochrany; stupně se nesčítají. Například, pokud je cíl za tvorem, který poskytuje poloviční kryt, a za kmenem stromu, který poskytuje tříčtvrteční kryt, pak má tříčtvrteční kryt.
+
 Cíl s **polovičním krytem** má bonus +2 k OČ a záchranným hodům na Obratnost. Cíl má poloviční kryt, pokud překážka zakrývá alespoň polovinu jeho těla. Překážkou může být nízká zídka, velký kus nábytku, úzký kmen stromu nebo tvor, ať už nepřítel či přítel.
+
 Tvor s **tříčtvrtečním krytem** má bonus +5 k OČ a záchranným hodům na Obratnost. Cíl má tříčtvrteční kryt, pokud překážka zakrývá asi tři čtvrtiny jeho těla. Překážkou může být padací mříž, střílna nebo tlustý kmen stromu.
+
 Na cíl s **úplným krytem** nelze pomocí útoku nebo kouzla přímo zamířit, ačkoliv některá kouzla mohou dosáhnout na takový cíl tak, že ho zahrnou do oblasti účinku. Cíl má úplný kryt, pokud je překážkou zcela zakrytý.
 
 #### Útoky na dálku
