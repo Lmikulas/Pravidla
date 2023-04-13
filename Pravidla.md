@@ -465,27 +465,27 @@ Je-li ve sloupečku Síla uvedeno např. „Sil 13“ nebo „Sil 15“, zbroj s
 #### Vlastnosti zbraní
 Mnoho zbraní má zvláštní vlastnosti související s jejich použitím, jak ukazuje Tabulka zbraní.
 
-Dlouhá. Tato zbraň přidává 1 sáh k tvému dosahu, když s ní útočíš, a také pro určování tvého dosahu pro příležitostné útoky pomocí ní (viz 9. kapitola).
+**Dlouhá.** Tato zbraň přidává 1 sáh k tvému dosahu, když s ní útočíš, a také pro určování tvého dosahu pro příležitostné útoky pomocí ní (viz 9. kapitola).
 
-Dostřel. Zbraň, která se dá použít k útoku na dálku, má uveden dostřel v závorkách za vlastností, která říká, že jde o střelnou nebo vrhací zbraň. Dostřel uvádí dvě čísla. První je normální dostřel zbraně v sázích a druhé označuje její dlouhý dostřel. Když útočíš na nepřátele mimo normální dostřel, máš k hodům na útok nevýhodu. Nemůžeš zaútočit na cíl mimo dlouhý dostřel zbraně.
+**Dostřel.** Zbraň, která se dá použít k útoku na dálku, má uveden dostřel v závorkách za vlastností, která říká, že jde o střelnou nebo vrhací zbraň. Dostřel uvádí dvě čísla. První je normální dostřel zbraně v sázích a druhé označuje její dlouhý dostřel. Když útočíš na nepřátele mimo normální dostřel, máš k hodům na útok nevýhodu. Nemůžeš zaútočit na cíl mimo dlouhý dostřel zbraně.
 
-Jeden a půlruční. Tato zbraň se dá použít jednou nebo oběma rukama. Hodnota zranění uvedená v závorkách za touto vlastností je zranění, když se tato zbraň použije oběma rukama k útoku na blízko.
+**Jeden a půlruční.** Tato zbraň se dá použít jednou nebo oběma rukama. Hodnota zranění uvedená v závorkách za touto vlastností je zranění, když se tato zbraň použije oběma rukama k útoku na blízko.
 
-Lehká. Lehká zbraň je malá a snadno se ovládá, díky čemuž je ideálně použitelná pro boj se dvěma zbraněmi. Viz pravidla pro boj se dvěma zbraněmi v 9. kapitole.
+**Lehká.** Lehká zbraň je malá a snadno se ovládá, díky čemuž je ideálně použitelná pro boj se dvěma zbraněmi. Viz pravidla pro boj se dvěma zbraněmi v 9. kapitole.
 
-Nabíjecí. Když použiješ svou akci, bonusovou akci či reakci k výstřelu z této zbraně, můžeš vystřelit jen jednu střelu kvůli času, který je potřeba k nabití zbraně, bez ohledu na počet útoků, které obvykle můžeš provést.
+**Nabíjecí.** Když použiješ svou akci, bonusovou akci či reakci k výstřelu z této zbraně, můžeš vystřelit jen jednu střelu kvůli času, který je potřeba k nabití zbraně, bez ohledu na počet útoků, které obvykle můžeš provést.
 
-Obouruční. Zaútočení touto zbraní vyžaduje dvě ruce.
+**Obouruční.** Zaútočení touto zbraní vyžaduje dvě ruce.
 
-Těžká. Malí nebo Drobní tvorové mají nevýhodu k hodům na útok s těžkou zbraní. Velikost a objem těžké zbraně je příliš velký, aby ji Malý nebo Drobbný tvor dokázal používat efektivně.
+**Těžká.** Malí nebo Drobní tvorové mají nevýhodu k hodům na útok s těžkou zbraní. Velikost a objem těžké zbraně je příliš velký, aby ji Malý nebo Drobbný tvor dokázal používat efektivně.
 
-Střelná. Zbraň, která má střelnou vlastnost, můžeš použít k útoku na dálku jen tehdy, když máš střelu, kterou můžeš ze zbraně vystřelit. Pokaždé, když zbraní zaútočíš, spotřebuješ jednu střelu. Vytažení střely z toulce, pouzdra či jiného zásobníku je součástí útoku (pro nabití jednoruční zbraně potřebuješ volnou ruku). Na konci souboje můžeš získat zpět polovinu svých spotřebovaných střel, když strávíš minutu hledáním na bojišti.
+**Střelná.** Zbraň, která má střelnou vlastnost, můžeš použít k útoku na dálku jen tehdy, když máš střelu, kterou můžeš ze zbraně vystřelit. Pokaždé, když zbraní zaútočíš, spotřebuješ jednu střelu. Vytažení střely z toulce, pouzdra či jiného zásobníku je součástí útoku (pro nabití jednoruční zbraně potřebuješ volnou ruku). Na konci souboje můžeš získat zpět polovinu svých spotřebovaných střel, když strávíš minutu hledáním na bojišti.
 
 Použiješ-li zbraň se střelnou vlastností k útoku na blízko, ber ji jako improvizovanou zbraň (viz „Improvizované zbraně“ dále v této sekci). Když použiješ tímto způsobem prak, musí být nabitý, aby způsobil nějaké zranění.
 
-Vrhací. Pokud má zbraň vrhací vlastnost, můžeš zbraň vrhnout útokem na dálku. Je-li zbraň v kategorii zbraní na blízko, použiješ pro hod na útok a na zranění stejnou opravu vlastnosti, jakou bys použil pro útok na blízko s touto zbraní. Například, vrhneš-li sekeru, použiješ svou Sílu, ale vrhneš-li dýku, můžeš použít buď svou Sílu, nebo Obratnost, protože dýka má vytříbenou vlastnost.
+**Vrhací.** Pokud má zbraň vrhací vlastnost, můžeš zbraň vrhnout útokem na dálku. Je-li zbraň v kategorii zbraní na blízko, použiješ pro hod na útok a na zranění stejnou opravu vlastnosti, jakou bys použil pro útok na blízko s touto zbraní. Například, vrhneš-li sekeru, použiješ svou Sílu, ale vrhneš-li dýku, můžeš použít buď svou Sílu, nebo Obratnost, protože dýka má vytříbenou vlastnost.
 
-Vytříbená. Když útočíš vytříbenou zbraní, přičteš ke svým hodům na útok a na zranění buď svou opravu Síly, nebo Obratnosti dle své volby. K oběma hodům musíš použít stejnou opravu.
+**Vytříbená.** Když útočíš vytříbenou zbraní, přičteš ke svým hodům na útok a na zranění buď svou opravu Síly, nebo Obratnosti dle své volby. K oběma hodům musíš použít stejnou opravu.
 
 Zvláštní. Zbraň se zvláštní vlastností má neobvyklá pravidla použití, vysvětlená v popisu zbraně (viz „Zvláštní zbraně“ dále v této sekci).
 
