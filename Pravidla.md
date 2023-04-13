@@ -140,6 +140,14 @@ Pokud máš inspiraci, můžeš ji utratit při hodu na útok, záchranném hodu
 |          |             | Pátrání     | Vhled           | Zastrašování  |
 |          |             | Příroda     | Vnímání         |               |
 
+| Strength  | Obratnost       | Intelligence  | Wisdom          | Charisma     |
+| --------- | --------------- | ------------- | --------------- | ------------ |
+| Athletics | Acrobatics      | History       | Medicine        | Deception    |
+|           | Sleight of Hand | Mystika       | Animal Handling | Persuasion   |
+|           | Stealth         | Religion      | Survival        | Performance  |
+|           |                 | investigation | Insight         | Intimidation |
+|           |                 | Nature        | Perception      |              |
+
 ##### Konflikty
 
 Příklad: Přetlačování o otevření dveří, které drží jiná postava. Hodí si na ověření vlastnosti (Síla) s bonusy i postihy a porovnají si to navzájem. V případě remízy se nestane nic
