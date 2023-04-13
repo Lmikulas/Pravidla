@@ -79,6 +79,16 @@ Tvá volba životního stylu může mít důsledky. Udržování zámožného ž
 | &nbsp; Zkušený                  | 2 zl / den  |
 | Posel                           | 2 st / míle |
 
+###### Tabulka tříd velikosti
+| Velikost   | Místo               |
+| ---------- | ------------------- |
+| Drobná     | 0,5 × 0,5 sáhu      |
+| Malá       | 1 × 1 sáh           |
+| Střední    | 1 × 1 sáh           |
+| Velká      | 2 × 2 sáhy          |
+| Obrovská   | 3 × 3 sáhy          |
+| Gigantická | 4 × 4 sáhy nebo víc |
+
 #### Vtlačení se do malého prostoru
 
 Tvor se může protlačit prostorem, který je dostatečně velký pro tvora menšího o jednu třídu velikosti. Takže Velký tvor se může protlačit chodbou, která je jen 1 sáh široká. Během protlačování musí tvor utratit 1 sáh rychlosti navíc za každý sáh, o který se pohne, a má nevýhodu k hodům na útok a záchranným hodům na Obratnost. Zatímco je v menším prostoru, mají útoky proti němu výhodu.
